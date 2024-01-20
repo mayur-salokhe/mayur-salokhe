@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayur-salokhe
 - 👀 I’m interested in Python Development / Web Development / Data Science
-- 🌱 I’m currently learning FastApi
+- 🌱 I’m currently learning learnig new things
 - 📫 How to reach me :- Linkedin:- mayursalokhe
 
 <!---
