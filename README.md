@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayur-salokhe
 - 👀 I’m interested in Python Development / Web Development / Data Science
-- 🌱 I’m currently learning learnig new things
+- 🌱 I’m currently learning new things in this field.
 - 📫 How to reach me :- Linkedin:- mayursalokhe
 
 <!---
